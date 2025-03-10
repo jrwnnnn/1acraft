@@ -1,4 +1,4 @@
-# 1A Craft <img src="[LINK](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png)" style="height:30px;">
+# 1A Craft <img src="(https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png)" style="height:30px;">
 
 <!-- PROGRAMMING LANGUAGE ICONS
 HTML: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png
@@ -7,11 +7,6 @@ Python: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-no
 mySQL: https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png
 -->
 
-A school project. <br>
+CS1A Minecraft Server Website <br>
 **Programmed and published on GitHub by Mark Jerwin [(@jrwnnnn)](https://github.com/jrwnnnn).** <br>
 > Status: Active <br>
-### How to use
-
-### Contribute
-
-### Note
